@@ -6,7 +6,7 @@ This model is used to predict the customers who have acquired credit cards from 
 1) Importing the dataset
 2) We do feature scaling for the given dataset
 3) We train the SOM
-4) We visuaulize the results of the fruda in SOMs
+4) We visuaulize the results of the fruad in SOMs
 5) We find the fruadulant customers
 
 ## Running the Code
